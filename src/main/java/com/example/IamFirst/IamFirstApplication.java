@@ -15,7 +15,7 @@ public class IamFirstApplication {
 
 	@GetMapping("/")
 	public String index() {
-		return "<h1>Hello Tilek!</h1>";
+		return "<h1>Hello Tilek and All students!</h1>";
 	}
 
 }
